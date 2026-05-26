@@ -44,14 +44,8 @@ PIN: `1234`
 
 ## 📸 Sample Output
 ```bash
-===== Welcome to Python ATM =====
-Enter your 4-digit PIN: 1234
+<img width="369" height="445" alt="image" src="https://github.com/user-attachments/assets/be154d4d-3f84-4e26-8c3d-0d29020e3a1b" />
 
-===== ATM MENU =====
-1. Check Balance
-2. Deposit Money
-3. Withdraw Money
-4. Exit
 ```
 
 ## 🎯 Purpose
