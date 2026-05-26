@@ -43,10 +43,8 @@ python atm_simulator.py
 PIN: `1234`
 
 ## 📸 Sample Output
-```bash
 <img width="369" height="445" alt="image" src="https://github.com/user-attachments/assets/be154d4d-3f84-4e26-8c3d-0d29020e3a1b" />
 
-```
 
 ## 🎯 Purpose
 This project is beginner-friendly and helps in understanding:
